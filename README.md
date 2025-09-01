@@ -1,5 +1,10 @@
 # Hi, I'm Sonny!
 
+## In depth
+
+I'm a Swedish expat living in Leipzig, Germany.
+You can find more information about me over at my portfolio and blog: [sonnystark.dev](https://sonnystark.dev)
+
 ## Frontend web development
 
 *I mainly create and play around with the following tech:*
@@ -18,8 +23,3 @@
 - **Linux**
 - **CLI**
 - **Git**
-
-## In depth
-
-I'm a Swedish expat living in Leipzig, Germany.
-You can find more information about me over at my portfolio and blog: [sonnystark.dev](https://sonnystark.dev)
