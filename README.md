@@ -17,6 +17,7 @@ Other tech I appreciate:
 - Open Source
 - Linux
 - CLI
+- Git
 
 ## In depth
 
