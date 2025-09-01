@@ -9,7 +9,7 @@ You can find more information about me over at my portfolio and blog: [sonnystar
 
 *I mainly create and play around with the following tech:*
 - **HTML** ['accessability', 'aria', 'semantic']
-- **CSS** ['theming', 'modularity', 'responsiveness', 'fluidity']
+- **CSS** ['theming', 'modularity', 'responsiveness', 'fluidity', 'nesting']
 - **Astro**
 - **Vue.js**
 - **JavaScript**
@@ -18,6 +18,7 @@ You can find more information about me over at my portfolio and blog: [sonnystar
 *Other tech I appreciate:*
 - **Alpine.js**
 - **Figma**
+- **TailwindCSS**
 - **Svelte**
 - **Open Source**
 - **Linux**
