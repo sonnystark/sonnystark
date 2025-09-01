@@ -1,6 +1,6 @@
-## Hi, I'm Sonny!
+# Hi, I'm Sonny!
 
-### Frontend web development
+## Frontend web development
 
 I mainly create and play around with the following tech:
 - HTML ['accessability', 'aria', 'semantic']
@@ -14,4 +14,9 @@ Other tech I appreciate:
 - Svelte
 - Open Source
 - Linux
-- 
+- CLI
+
+## In depth
+
+I'm a Swedish expat living in Leipzig, Germany.
+You can find more information about me over at my portfolio and blog: [sonnystark.dev](https://sonnystark.dev)
