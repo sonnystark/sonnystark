@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I'm Sonny!
 
-<!--
-**sonnystark/sonnystark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend web development
 
-Here are some ideas to get you started:
+I mainly create and play around with the following tech:
+- HTML ['accessability', 'aria', 'semantic']
+- CSS ['theming', 'modularity', 'responsiveness', 'fluidity']
+- Astro
+- Vue.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Other tech I appreciate:
+- Alpine.js
+- Figma
+- Svelte
+- Open Source
+- Linux
+- 
